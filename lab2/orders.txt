@@ -1,0 +1,25 @@
+Dunja
+3
+Kebab: 1
+Coke: 1.0
+Donut: 1
+Dino
+3
+Cevapi: 10
+Chocolate pudding: 1
+Jamnica botanica: 0.5
+Matej
+4
+Cevapi: 10
+Sour cream: 1
+Onion: 1
+Beer: 0.5
+Iva
+3
+Kebab: 1
+Beer: 0.5
+Chocolate pudding: 1
+Emma
+2
+Chocolate pudding: 3
+Vanilla pudding: 2
